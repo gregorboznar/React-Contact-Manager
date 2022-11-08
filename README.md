@@ -1,3 +1,7 @@
+## Screenshots
+
+![Login](https://github.com/gregorboznar/React-Contact-Manager/blob/master/src/images/snapshot.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
